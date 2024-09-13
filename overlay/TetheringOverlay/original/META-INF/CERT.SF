@@ -1,0 +1,17 @@
+Signature-Version: 1.0
+Created-By: 1.0 (MX Security SignApk)
+SHA-256-Digest-Manifest: HBE4gLiR/71+SuhwS0j49YKfxKc/NNkk9jer0YNMs00=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 8rkryQTcgSgz7PWycP++OfiAo2V6teqZLq7gp4bpI88=
+
+Name: SEC-INF/buildConfirm.crt
+SHA-256-Digest: P3ynqIdbDmwF1PsNloTMDkK1dQ1IUV/iAEjaKUKMbUg=
+
+Name: SEC-INF/buildinfo.xml
+SHA-256-Digest: UfcZXeuTx4EVRTeCGRrFOLCCA4BquFq8Dkd5KwnLtiE=
+
+Name: resources.arsc
+SHA-256-Digest: jh3HygaQ6Be/zW9QHnn+rWfmS9RACswdmDxTwMHL3x8=
+

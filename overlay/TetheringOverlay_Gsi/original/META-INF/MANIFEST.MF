@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: mhxF+IJfE7UUOqJn365vJnY7V40ux2TFQXqBbV3IheA=
+
+Name: SEC-INF/buildConfirm.crt
+SHA-256-Digest: KXPtZBP9ZJT4aUs4ggqLtOJUTC3FoNcQEqzF2uC25xc=
+
+Name: SEC-INF/buildinfo.xml
+SHA-256-Digest: OsniOJeX3CbHmbFN/hFmNdt8EkwP58HsxTG6nHxPSdc=
+
+Name: resources.arsc
+SHA-256-Digest: nZCmhbL4FZpzGagBTQWFsuntaniGFKhop0SiBzNQfOk=
+
