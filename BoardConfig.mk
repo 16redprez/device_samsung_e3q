@@ -12,26 +12,6 @@ BUILD_BROKEN_INCORRECT_PARTITION_IMAGES := true
 DEVICE_PATH := device/samsung/e3q
 KERNEL_PATH := $(DEVICE_PATH)-kernel
 
-# A/B
-AB_OTA_UPDATER := true
-
-AB_OTA_PARTITIONS += \
-    boot \
-    dtbo \
-    init_boot \
-    odm \
-    product \
-    recovery \
-    system \
-    system_dlkm \
-    system_ext \
-    vbmeta \
-    vbmeta_system \
-    vbmeta_vendor \
-    vendor \
-    vendor_boot \
-    vendor_dlkm
-
 # ANT+
 BOARD_ANT_WIRELESS_DEVICE := "qualcomm-hidl"
 
